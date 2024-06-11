@@ -2,8 +2,9 @@
 
 In this fork, the values: 
 - defaultColorNight,
-- shaderColorNight
+- shaderColorNight,
 - builtUpAreasColorNight
+  
 are set to #000000
 
 Download CycloRoute.render.xml and open with Osmand to import (should appear automatically as an option).
